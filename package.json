@@ -1,8 +1,8 @@
 {
-  "name": "YourPet",
+  "name": "yourpet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://smirnypavel.github.io/YourPet/",
+  "homepage": "https://smirnypavel.github.io/yourpet/",
   "dependencies": {
     "@cloudinary/react": "^1.11.2",
     "@cloudinary/url-gen": "^1.10.1",
